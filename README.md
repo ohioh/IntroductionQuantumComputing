@@ -7,6 +7,8 @@ The digital Book to the course is @ https://app.gitbook.com/@ohioh/s/introductio
 
 For Questions write me tjark.ziehm@ohioh.de 
 
+
+IDEA: How code works text example: https://microcontrollerslab.com/save-data-esp32-flash-permanently-preferences-library/
 Important Links:
 - https://qiskit.org/learn/
 - https://pennylane.readthedocs.io/en/stable/introduction/pennylane.html
