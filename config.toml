@@ -38,7 +38,7 @@ backend = "qasm_simulator"
     # Default options for IBMQ
 
     # IBM Quantum Experience authentication token
-    ibmqx_token = "296fc16080cc606c0bb86162f5457f196367d2724ca54e461e0f80289935ef5d65e889307678d1be77f04d024aabc1ecfc1a6e433d3c031ada645d6ffaed3f75"
+    ibmqx_token = "YOUR_TOKEN"
 
     # hardware backend device
     backend = "ibmq_belem"
