@@ -1,5 +1,11 @@
+  ___                    _                   
+ / _ \ _   _  __ _ _ __ | |_ _   _ _ __ ___  
+| | | | | | |/ _` | '_ \| __| | | | '_ ` _ \ 
+| |_| | |_| | (_| | | | | |_| |_| | | | | | |
+ \__\_\\__,_|\__,_|_| |_|\__|\__,_|_| |_| |_|
+                                             
 ## Introduction: Quantum-Computing
-### ( IDW-Course @UniversityOfAppliedSciences Kiel )
+### @UniversityOfAppliedSciences Kiel )
 
 This Repsoritory is the Code-Base for the course and your Projects.
 
@@ -32,7 +38,7 @@ Important Links:
 2. Then install the requirements.txt file using the command  
     $ pip install -r requirements.txt
 
-Template requirements.txt to copy paste -> (Template)requirements
+Template requirements.txt to copy paste -> (Template)requirements.txt
 
 
 
