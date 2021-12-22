@@ -1,0 +1,17 @@
+####################################################
+#  ___                    _                   
+# / _ \ _   _  __ _ _ __ | |_ _   _ _ __ ___  
+#| | | | | | |/ _` | '_ \| __| | | | '_ ` _ \ 
+#| |_| | |_| | (_| | | | | |_| |_| | | | | | |
+# \__\_\\__,_|\__,_|_| |_|\__|\__,_|_| |_| |_|
+# @FH Kiel                                            
+####################################################
+#
+# $ pip freeze -r requirements.txt   
+# $ pip install -r requirements.txt
+###### Requirements without Version Specifiers ######
+#alabaster
+
+###### Requirements with Version Specifiers ######
+#alabaster==0.7.12
+

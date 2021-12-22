@@ -15,3 +15,39 @@ IDEA: How code works text example: https://microcontrollerslab.com/save-data-esp
 Important Links:
 - https://qiskit.org/learn/
 - https://pennylane.readthedocs.io/en/stable/introduction/pennylane.html
+
+
+### Using virtual Python Env
+1. Install the virtualenv package
+    $ pip install virtualenv
+2. Create the virtual environment in the folder you are
+    $ virtualenv $NAME   //$Name = your env name
+3. Activate the virtual Env
+    $ source mypython/bin/activate
+
+
+### requirements.txt 
+1. First, freeze all of your pip packages in the requirements.txt file using the command
+    $ pip freeze > requirements.txt
+2. Then install the requirements.txt file using the command  
+    $ pip install -r requirements.txt
+
+Template requirements.txt to copy paste
+
+####################################################
+#  ___                    _                   
+# / _ \ _   _  __ _ _ __ | |_ _   _ _ __ ___  
+#| | | | | | |/ _` | '_ \| __| | | | '_ ` _ \ 
+#| |_| | |_| | (_| | | | | |_| |_| | | | | | |
+# \__\_\\__,_|\__,_|_| |_|\__|\__,_|_| |_| |_|
+# @FH Kiel                                            
+####################################################
+#
+# $ pip freeze -r requirements.txt   
+# $ pip install -r requirements.txt
+###### Requirements without Version Specifiers ######
+#alabaster
+
+###### Requirements with Version Specifiers ######
+#alabaster==0.7.12
+
