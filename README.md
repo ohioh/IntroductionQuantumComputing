@@ -36,9 +36,9 @@ Important Links:
 
 ### requirements.txt 
 1. First, freeze all of your pip packages in the requirements.txt file using the command
-    $ pip freeze > requirements.txt
+    <br>$ pip freeze > requirements.txt
 2. Then install the requirements.txt file using the command  
-    $ pip install -r requirements.txt
+    <br>$ pip install -r requirements.txt
 
 Template requirements.txt to copy paste -> (Template)requirements.txt
 
